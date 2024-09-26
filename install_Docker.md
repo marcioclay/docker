@@ -1,4 +1,4 @@
-# Docker no Ubuntu
+# Docker no Ubuntu 22.4
 
 ## 1 – Atualizar o Sistema
 O primeiro passo é atualizar a lista de pacotes do Ubuntu. Para isso entre com o seguinte comando:
